@@ -1,0 +1,42 @@
+@import 'https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css';
+
+@media (prefers-color-scheme: dark) {
+}
+
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+.card {
+    padding: 2em;
+}
+
+.read-the-docs {
+    color: #888;
+}
+
+table {
+    text-align: left;
+}
+
+td {
+    padding: 12px;
+    flex: content;
+    flex-direction: row;
+    align-content: center;
+}
+
+button {
+    width: 100%;
+}
+
+button.buy {
+    background-color: darkcyan;
+}
+
+button.sell {
+    background-color: blue;
+}

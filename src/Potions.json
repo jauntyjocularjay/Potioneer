@@ -1,0 +1,16 @@
+{
+    "potion": {
+        "Green Herb": "heals when eaten",
+        "Spartoin Marching Leaves": "adds stamina",
+        "Terror Gas": "causes fear",
+        "Amanitan Sight": "used to enter trances",
+        "Frenzy Elixir": "put target into a frenzy, damaging friends and foes alike",
+        "Noctan Darkness": "adds impenetrable darkness to an area",
+        "Pepper Cloud": "stings the eyes of those caught in its cloud",
+        "Antivenom": "cures poison from snakes",
+        "Byztian Fire": "sets fire to EVERYTHING",
+        "Gelt Courage": "increases: charisma, lowers: wisdom, perception",
+        "Phoenix Feather": "restores target to consciousness even from the brink of death",
+        "Dragon Blood": "you're not going to use this, right?"
+    }
+}

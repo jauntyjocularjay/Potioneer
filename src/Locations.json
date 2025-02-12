@@ -1,0 +1,163 @@
+{
+    "location": [
+        {
+            "alias": "Leonidan Foothills",
+            "potion": {
+                "Green Herb": {
+                    "price": 5,
+                    "available": 5
+                },
+                "Spartoin Marching Leaves": {
+                    "price": 5,
+                    "available": 5
+                },
+                "Terror Gas": {
+                    "price": 23,
+                    "available": 5
+                },
+                "Amanitan Sight": {
+                    "price": 50,
+                    "available": 5
+                },
+                "Frenzy Elixir": {
+                    "price": 21,
+                    "available": 5
+                },
+                "Noctan Darkness": {
+                    "price": 17,
+                    "available": 5
+                },
+                "Pepper Cloud": {
+                    "price": 16,
+                    "available": 5
+                },
+                "Antivenom": {
+                    "price": 19,
+                    "available": 5
+                },
+                "Byztian Fire": {
+                    "price": 30,
+                    "available": 5
+                },
+                "Gelt Courage": {
+                    "price": 20,
+                    "available": 5
+                },
+                "Phoenix Feather": {
+                    "price": 100,
+                    "available": 1
+                },
+                "Dragon Blood": {
+                    "price": 200,
+                    "available": 0
+                }
+            }
+        },
+        {
+            "alias": "Thebes",
+            "potion": {
+                "Green Herb": {
+                    "price": 5,
+                    "available": 5
+                },
+                "Spartoin Marching Leaves": {
+                    "price": 5,
+                    "available": 5
+                },
+                "Terror Gas": {
+                    "price": 23,
+                    "available": 5
+                },
+                "Amanitan Sight": {
+                    "price": 50,
+                    "available": 5
+                },
+                "Frenzy Elixir": {
+                    "price": 21,
+                    "available": 5
+                },
+                "Noctan Darkness": {
+                    "price": 17,
+                    "available": 5
+                },
+                "Pepper Cloud": {
+                    "price": 16,
+                    "available": 5
+                },
+                "Antivenom": {
+                    "price": 19,
+                    "available": 5
+                },
+                "Byztian Fire": {
+                    "price": 30,
+                    "available": 5
+                },
+                "Gelt Courage": {
+                    "price": 20,
+                    "available": 5
+                },
+                "Phoenix Feather": {
+                    "price": 100,
+                    "available": 1
+                },
+                "Dragon Blood": {
+                    "price": 200,
+                    "available": 0
+                }
+            }
+        },
+        {
+            "alias": "Hati Plateu",
+            "potion": {
+                "Green Herb": {
+                    "price": 5,
+                    "available": 5
+                },
+                "Spartoin Marching Leaves": {
+                    "price": 5,
+                    "available": 5
+                },
+                "Terror Gas": {
+                    "price": 23,
+                    "available": 5
+                },
+                "Amanitan Sight": {
+                    "price": 50,
+                    "available": 5
+                },
+                "Frenzy Elixir": {
+                    "price": 21,
+                    "available": 5
+                },
+                "Noctan Darkness": {
+                    "price": 17,
+                    "available": 5
+                },
+                "Pepper Cloud": {
+                    "price": 16,
+                    "available": 5
+                },
+                "Antivenom": {
+                    "price": 19,
+                    "available": 5
+                },
+                "Byztian Fire": {
+                    "price": 30,
+                    "available": 5
+                },
+                "Gelt Courage": {
+                    "price": 20,
+                    "available": 5
+                },
+                "Phoenix Feather": {
+                    "price": 100,
+                    "available": 1
+                },
+                "Dragon Blood": {
+                    "price": 200,
+                    "available": 0
+                }
+            }
+        }
+    ]
+}
