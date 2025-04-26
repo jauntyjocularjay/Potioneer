@@ -1,11 +1,15 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"name": "components",
+			"path": "src/components"
 		},
 		{
-			"path": "src/components"
+			"name": "Potioneer",
+			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Potioneer"
+	}
 }
