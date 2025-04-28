@@ -5,11 +5,13 @@
 			"path": "src/components"
 		},
 		{
+			"name": "common",
+			"path": "src/components/common"
+		},
+		{
 			"name": "Potioneer",
 			"path": "."
 		}
 	],
-	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "Potioneer"
-	}
+	"settings": {}
 }
