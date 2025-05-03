@@ -1,6 +1,6 @@
 {
     "inventory": {
-        "Green Herb": 0,
+        "Green Herb": 6,
         "Spartoin Marching Leaves": 0,
         "Terror Gas": 0,
         "Amanitan Sight": 0,
@@ -13,5 +13,6 @@
         "Phoenix Feather": 0,
         "Dragon Blood": 0
     },
-    "location_id": 0
+    "location_id": 0,
+    "revenue": -100
 }

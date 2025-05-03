@@ -4,39 +4,43 @@
 }
 
 #root {
-    max-width: 1280px;
     margin: 0 auto;
     padding: 2rem;
     text-align: center;
 }
 
+h1 {
+    padding: 1em 0;
+}
+
 .card {
-    padding: 2em;
+    margin: 2em 1em;
+    padding: 1em;
 }
 
 .read-the-docs {
     color: #888;
 }
 
-table {
-    text-align: left;
+label {
+    display: flex;
+    flex-direction: row;
 }
 
-td {
-    padding: 12px;
-    flex: content;
-    flex-direction: row;
+span {
+    text-align: left;
     align-content: center;
 }
 
-button {
-    width: 100%;
+span.potion-alias {
+    flex: 3 3 256px;
 }
 
-button.buy {
-    background-color: darkcyan;
+span.quantity {
+    flex: 1 1 16px;
 }
 
-button.sell {
-    background-color: blue;
+input {
+    flex: 2 2 32px;
 }
+
