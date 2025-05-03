@@ -1,7 +1,7 @@
 import './App.css'
-// import Navigator from './components/Navigator/Navigator'
-// import Market from './components/Market/Market'
-import Inventory from './components/Inventory/Inventory'
+// import Navigator from './components/Navigator/Index'
+// import Market from './components/Market/Index'
+import Inventory from './components/Inventory/Index'
 import Styling from './Styling'
 
 function App() {
