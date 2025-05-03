@@ -1,6 +1,3 @@
-[submodule "src/components/common"]
-	path = src/components/common
-	url = http://github.com/jauntyjocularjay/ReactInputs.git
 [submodule "src/components/constants"]
 	path = src/components/constants
 	url = https://github.com/jauntyjocularjay/JSXConstants.git
